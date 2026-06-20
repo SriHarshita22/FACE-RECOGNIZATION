@@ -1,5 +1,5 @@
-import streamlit as st
-import cv2
+import streamlit as st  # type: ignore
+import cv2  # type: ignore
 import numpy as np
 import os
 import pandas as pd
